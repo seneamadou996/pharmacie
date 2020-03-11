@@ -1,0 +1,37 @@
+.cont {
+    margin-top: -20px;
+    margin-left: -32px;
+    height: 100%;
+    margin-bottom: -20px;
+}
+
+.heur {
+    width: 80px;
+    height: 25px;
+    color: green;
+    border: 1px solid green;
+    background-color: white;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    padding-bottom: 10px;
+    box-shadow: 0 .25em .5em green;
+}
+
+#defile {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    height: 40px;
+    font-size: xx-large;
+}
+
+.marquee-rtl {
+    max-width: 50em;
+    margin: 1em auto 2em;
+    overflow: hidden;
+    background-color: white;
+    box-shadow: 0 .25em .5em green;
+}
+
+.copie {
+    color: white;
+}
